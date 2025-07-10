@@ -55,7 +55,7 @@
 
 ## 📊 GitHub Stats:
 
-![arnavprajapati's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavprajapati&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) 
+![arnavprajapati's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavprajapati&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
  <br/> <br/>
 ![arnavprajapati's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnavprajapati&theme=tokyonight&hide_border=false)
 
