@@ -13,13 +13,17 @@
     I'm a passionate learner and aspiring software engineer from India 🇮🇳
   </p>
 
-  <table style="font-size: 17px; max-width: 750px;">
-    <tr><td>🔭 Currently sharpening my skills in <strong>Full Stack Web Development</strong></td></tr>
-    <tr><td>🔧 Built strong foundations in <strong>C++</strong>, <strong>JavaScript</strong>, and <strong>Node.js</strong></td></tr>
-    <tr><td>🌐 Comfortable with <strong>Computer Networks</strong> and <strong>Operating Systems</strong></td></tr>
-    <tr><td>📚 Actively solving <strong>DSA</strong> problems and building practical projects</td></tr>
-    <tr><td>⚡ Exploring deep tech concepts and building meaningful projects!</td></tr>
+<p align="center">
+  <table>
+    <tr><td align="center">🔭 Full Stack Web Developer in Progress</td></tr>
+    <tr><td align="center">🔧 Solid foundation in C++, JavaScript, and Node.js</td></tr>
+    <tr><td align="center">🌐 Currently focused on Backend Development and DevOps</td></tr>
+    <tr><td align="center">📚 Passionate about building scalable systems and deep tech products</td></tr>
+    <tr><td align="center">📦 Working on real-world backend projects, including a Google Drive Clone</td></tr>
+    <tr><td align="center">🧠 Committed to continuous learning and mastering industry-relevant technologies</td></tr>
   </table>
+</p>
+
 
 </div>
 
