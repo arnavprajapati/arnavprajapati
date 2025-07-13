@@ -19,7 +19,6 @@
     <tr><td align="center">🔧 Solid foundation in C++, JavaScript, and Node.js</td></tr>
     <tr><td align="center">🌐 Currently focused on Backend Development and DevOps</td></tr>
     <tr><td align="center">📚 Passionate about building scalable systems and deep tech products</td></tr>
-    <tr><td align="center">📦 Working on real-world backend projects, including a Google Drive Clone</td></tr>
     <tr><td align="center">🧠 Committed to continuous learning and mastering industry-relevant technologies</td></tr>
   </table>
 </p>
