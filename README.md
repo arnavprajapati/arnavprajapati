@@ -63,3 +63,7 @@
 ![arnavprajapati's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnavprajapati&theme=tokyonight&hide_border=false)
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arnavprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="arnavprajapati" />
+</p>
