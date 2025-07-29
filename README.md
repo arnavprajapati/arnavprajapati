@@ -15,12 +15,11 @@
 
 <p align="center">
   <table>
-    <tr><td>🔭 Full Stack Web Developer in Progress</td></tr>
-    <tr><td>🔧 Solid foundation in C++, JavaScript, and Node.js</td></tr>
-    <tr><td>🌐 Currently focused on Backend Development and DevOps</td></tr>
-    <tr><td>📚 Passionate about building scalable systems and deep tech products</td></tr>
-    <tr><td>🧠 Committed to continuous learning and mastering industry-relevant technologies</td></tr>
-  </table>
+  <tr><td>💻 Full Stack Web Developer in Progress | 🌐 Backend & DevOps Focused</td></tr>
+  <tr><td>🌐 Currently focused on Backend Development and DevOps</td></tr>
+  <tr><td>📚 Passionate about building scalable systems and deep tech products</td></tr>
+  <tr><td>🧠 Committed to continuous learning and mastering industry-relevant technologies</td></tr>
+</table>
 </p>
 
 
