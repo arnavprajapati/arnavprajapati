@@ -10,7 +10,7 @@
   <h2 style="font-size: 28px;">👨‍💻 About Me</h2>
 
   <p style="font-size: 18px; max-width: 700px;">
-    I'm a passionate learner and aspiring software engineer from India 🇮🇳
+    I'm a passionate learner and aspiring software engineer.
   </p>
 
 <p align="center">
