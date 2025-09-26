@@ -10,14 +10,14 @@
   <h2 style="font-size: 28px;">👨‍💻 About Me</h2>
 
   <p style="font-size: 18px; max-width: 700px;">
-    I'm a passionate learner and aspiring software engineer committed to building powerful, scalable systems.
+    I'm a passionate learner and aspiring software engineer.
   </p>
 
 <p align="center">
   <table>
   <tr><td>💻 Full Stack Web Developer | 🌐 Backend & DevOps Focused</td></tr>
-  <tr><td>🔥 Deeply focused on building highly **scalable and performant** full-stack applications</td></tr>
-  <tr><td>🚀 Driving towards expertise in **DevOps, cloud infrastructure (AWS/K8s/Docker), and backend systems**</td></tr>
+  <tr><td>🌐 Currently focused on Advance Website Building </td></tr>
+  <tr><td>📚 Passionate about building scalable systems and deep tech products</td></tr>
   <tr><td>🧠 Committed to continuous learning and mastering industry-relevant technologies</td></tr>
 </table>
 </p>
@@ -27,6 +27,7 @@
 
 
 ---
+
 <div align="center">
   
 ## 📫 ⚡️ Where to find me
