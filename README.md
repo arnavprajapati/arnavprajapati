@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" width="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNjanY5ZDliZjNhcTNidGV3ZDFzcjNzM2hicm5mem5nNmhxOGJrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" />
 </div>
 
 <h1 align="center">Hey there 👋, I'm Arnav Prajapati</h1>
