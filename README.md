@@ -59,15 +59,15 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavprajapati&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Arnav Prajapati's GitHub Stats" style="width: 45%; max-width: 400px;"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavprajapati&theme=dark&hide_border=true" alt="Arnav Prajapati's GitHub Streak" style="width: 45%; max-width: 400px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arnavprajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Arnav Prajapati's GitHub Stats" style="width: 45%; max-width: 400px;"/> 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=arnavprajapati&theme=dark&hide_border=false" alt="Arnav Prajapati's GitHub Streak" style="width: 45%; max-width: 400px;"/>
 </div>
 
 <br/>
 
 <br/>
 
-![arnavprajapati's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavprajapati&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![arnavprajapati's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavprajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
 </div>
