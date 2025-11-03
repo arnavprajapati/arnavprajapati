@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" width="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNjanY5ZDliZjNhcTNidGV3ZDFzcjNzM2hicm5mem5nNmhxOGJrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0a0f24&height=200&section=header&text=Arnav%20Prajapati&fontSize=50&fontColor=4db5ff">
 </div>
 
 <h1 align="center">Hey there 👋, I'm Arnav Prajapati</h1>
