@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0a0f24&height=200&section=header&text=Arnav%20Prajapati&fontSize=50&fontColor=4db5ff">
 </div>
 
-<h1 align="center">Hey there 👋, I'm Arnav Prajapati </h1>
+<h1 align="center">Hey there 👋, I'm Arnav Prajapati</h1>
 
 ---
 <div align="center">
