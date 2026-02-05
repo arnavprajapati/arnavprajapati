@@ -58,15 +58,10 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=arnavprajapati&theme=tokyonight&hide_border=true"
-    alt="Arnav Prajapati GitHub Streak"
-    style="width:45%; max-width:400px; margin-right:10px;"
-  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=arnavprajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=arnavprajapati&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavprajapati&theme=dark&hide_border=false&layout=compact)
 
 
 
 
-</div>
