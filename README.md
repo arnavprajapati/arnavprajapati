@@ -7,9 +7,10 @@
 I'm **Arnav Prajapati** — I build real products, not just code that works. I like going end-to-end: picking the right problem, designing scalable systems, writing clean code, and deploying on AWS.
 
 **These days I'm focused on:**
-- Integrating Gemini into full-stack apps to solve real problems — not AI for the sake of AI.
+- Exploring scalable architectures with BullMQ, Redis queues, and background workers.
+- Mastering modern frontend development with React 19, Next.js, and Tailwind CSS 4.
 - Architecting secure, scalable backends with Node.js, Express, JWT auth, and Redis caching.
-- Shipping fast with **MERN + Next.js**, deployed end-to-end on AWS.
+- Learning to integrate Gemini AI into real-world full-stack applications.
 
 **Think products, not features. Driven by impact.**
 
