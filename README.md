@@ -29,12 +29,14 @@ I'm **Arnav Prajapati** — I build real products, not just code that works. I l
 
 ## 🚀 Some stuff I built
 
-- 💸 **[SmartKhata / EasyBudgetAI](https://github.com/arnavprajapati/EasyBudgetAI)** — Text "50 ki chai office mein" to a Telegram bot, and Gemini AI parses, categorizes & logs it in under 3 seconds. Also handles khata (lending/borrowing). *(MERN, Redis, Gemini 2.0)*
-- 🧠 **[Memorix](https://github.com/arnavprajapati/memorix-ai)** — Upload any PDF, get AI-generated flashcards, and let a spaced-repetition (SM-2) algorithm schedule your reviews. *(React, Node.js, Pinecone, Supabase)*
-- 🏥 **[HealthLink 360](https://github.com/arnavprajapati/HealthLink-360-Frontend)** — A full-stack healthcare platform connecting patients and doctors, with AI-powered medical report analysis, health goal tracking, and Google Calendar–synced appointments. *(React 19, Express 5, MongoDB, Gemini AI)*
-- 📁 **Drive-Inspired File Manager** — Built it twice on purpose to nail backend fundamentals: **[pure-node-cloud-storage](https://github.com/arnavprajapati/pure-node-cloud-storage)** using only core Node.js modules (no Express), then **[local-drive-manager](https://github.com/arnavprajapati/local-drive-manager)**, a fuller version with Express — drag-and-drop uploads, nested folders, and real-time progress tracking.
+* 💸 **[SmartKhata / EasyBudgetAI](https://github.com/arnavprajapati/EasyBudgetAI)** — Text "50 ki chai office mein" to a Telegram bot, and Gemini AI parses, categorizes & logs it in under 3 seconds. Also handles khata (lending/borrowing). *(MERN, Redis, Gemini 2.0)*
+* 💬 **[ChillZone](https://github.com/arnavprajapati/scalable-chat-system)** — A real-time chat application built with a scalable microservice architecture, featuring OTP authentication, RabbitMQ, Redis, Socket.IO, and live messaging. *(Next.js, TypeScript, Node.js, MongoDB)*
+* 🧠 **[Memorix](https://github.com/arnavprajapati/memorix-ai)** — Upload any PDF, get AI-generated flashcards, and let a spaced-repetition (SM-2) algorithm schedule your reviews. *(React, Node.js, Pinecone, Supabase)*
+* 🏥 **[HealthLink 360](https://github.com/arnavprajapati/HealthLink-360-Frontend)** — A full-stack healthcare platform connecting patients and doctors, with AI-powered medical report analysis, health goal tracking, and Google Calendar–synced appointments. *(React 19, Express 5, MongoDB, Gemini AI)*
+* 📁 **Drive-Inspired File Manager** — Built it twice on purpose to nail backend fundamentals: **[pure-node-cloud-storage](https://github.com/arnavprajapati/pure-node-cloud-storage)** using only core Node.js modules (no Express), then **[local-drive-manager](https://github.com/arnavprajapati/local-drive-manager)**, a fuller version with Express — drag-and-drop uploads, nested folders, and real-time progress tracking.
 
 ---
+
 
 ## 🛠 Skills
 
